@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LeroyMerlinClone</string>
+    <string name="dashboard_title">Поиск</string>
+    <string name="dashboard_heading">Поиск товаров</string>
+    <string name="search_bar_hint">Поиск</string>
+    <string name="bottom_menu_main_button">Главная</string>
+    <string name="bottom_menu_my_list_button">Мой список</string>
+    <string name="bottom_menu_shops_button">Магазины</string>
+    <string name="bottom_menu_profile_button">Профиль</string>
+    <string name="bottom_menu_cart_button">Корзина</string>
+    <string name="green_card_title">Каталог</string>
+    <string name="SpecialSaleTitle">Предложение ограничено</string>
+    <string name="best_price_title">Лучшая цена</string>
+</resources>
